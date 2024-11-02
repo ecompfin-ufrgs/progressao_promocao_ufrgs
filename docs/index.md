@@ -3,6 +3,7 @@ Este memorial foi produzido com o intuito de ser apresentado ao Departamento de 
 
 ## Documentos necessários
 
-1. [RAD](https://github.com/ecompfin-ufrgs/progressao_promocao_ufrgs/blob/main/Associado1-2/rad-2016-2024.pdf)
-2. [Relatório de avaliação docente pelos discentes](https://github.com/ecompfin-ufrgs/progressao_promocao_ufrgs/blob/main/Associado1-2/relatorio_avaliacao_discente-2016-2024.pdf)
+1. Requerimento no [SEI/UFRGS](http://sei.ufrgs.br)
+2. [RAD](https://github.com/ecompfin-ufrgs/progressao_promocao_ufrgs/blob/main/Associado1-2/rad-2016-2024.pdf)
+3. [Relatório de avaliação docente pelos discentes](https://github.com/ecompfin-ufrgs/progressao_promocao_ufrgs/blob/main/Associado1-2/relatorio_avaliacao_discente-2016-2024.pdf)
 
