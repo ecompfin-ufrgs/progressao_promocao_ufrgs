@@ -1,5 +1,5 @@
 # Memorial Acadêmico 2016 a 2024
-Este memorial foi produzido com o intuito de ser apresentado ao Departamento de Economia e Relações Internacionais da FCE-UFRGS para obter a progressão a Professor Associado 2.  Ele é um complemento ao conteúdo existente no [Relatório de Atividades Docentes (2016-2024)](https://github.com/ecompfin-ufrgs/progressao_promocao_ufrgs/blob/main/Associado1-2/rad-2016-2024.pdf) e à [Planilha de progressão]() associada a este RAD. 
+Este site agrega documentos que compõem e comprovam atividades acadêmicas realizadas no período de 2016-2024.  Ele foi produzido com o intuito de ser apresentado ao Departamento de Economia e Relações Internacionais da FCE-UFRGS para obter a progressão a Professor Associado 2.  Aqui tem-se o  [Relatório de Atividades Docentes (RAD) do período 2016-2024](https://github.com/ecompfin-ufrgs/progressao_promocao_ufrgs/blob/main/Associado1-2/rad-2016-2024.pdf) produzido pela UFRGS e um [memorial descritivo](memorial2016-2024.md) das atividades não constantes naquele relatório.  Tudo isso é, então, usado para produzir[Planilha de progressão 2016-2024 do DERI](https://github.com/ecompfin-ufrgs/progressao_promocao_ufrgs/blob/main/Associado1-2/Planilha_DepEconomiaRelacoesInternacionais-Associado1-2-nelson.xlsx)  que justifica a concessão da progressão para Professor Associado 2. 
 
 ## Documentos necessários
 
