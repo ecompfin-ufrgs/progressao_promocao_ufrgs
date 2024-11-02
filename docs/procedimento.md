@@ -1,5 +1,6 @@
+# Procedimento para progressão e promoção
 
-# Notas progressão associado 1 para 2
+Seguir o previsto em [Instrução de processos de progressão e promoção nas Classes A, B, C e D da CPPD/UFRGS](https://www.ufrgs.br/cppd/?page_id=4089)
 
 1. Buscar a Resolução do DERI que disciplina os critérios de pontuação das atividades docentes (pesquisa, extensão, administração, representação e outras aprovadas pelo CONSUNI-FCE de acordo com a [Decisão 331/2017 do CONSUN/UFRGS.](https://www.ufrgs.br/cppd/wp-content/uploads/Decis%C3%A3o-n%C2%BA-331-2017-CONSUN.pdf)
 
