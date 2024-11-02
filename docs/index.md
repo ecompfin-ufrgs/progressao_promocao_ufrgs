@@ -9,5 +9,6 @@ Este memorial foi produzido com o intuito de ser apresentado ao Departamento de 
 4. Incluir o [Relatório de avaliação docente pelos discentes](https://github.com/ecompfin-ufrgs/progressao_promocao_ufrgs/blob/main/Associado1-2/relatorio_avaliacao_discente-2016-2024.pdf)
 5. Incluir este [Memorial](memorial2016-2024.md) descritivo das atividades acadêmicas não apresentadas no RAD.  Este memorial deve idealmente ser produzido a partir do [currículo Lattes](https://lattes.cnpq.br/)
 6. Incluir a [planilha de progressão do DERI](https://github.com/ecompfin-ufrgs/progressao_promocao_ufrgs/blob/main/Associado1-2/Planilha_DepEconomiaRelacoesInternacionais-Associado1-2-nelson.xlsx)
-7. Incluir a [Portaria da última progressão]().
+7. Incluir a [Portaria da última progressão](https://github.com/ecompfin-ufrgs/progressao_promocao_ufrgs/blob/main/Associado1-2/portaria_ultima_progressao_nelson.pdf).
+
 
