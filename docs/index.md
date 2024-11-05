@@ -12,7 +12,9 @@ Para tal, segundo a [Decisão CONSUN 331/2017](https://www.ufrgs.br/cppd/wp-cont
 
 A  [Decisão CONSUN 331/2017](https://www.ufrgs.br/cppd/wp-content/uploads/Dec331-17-Normas-de-progressao-e-promocao-docente-Modificada-outubro-2023.pdf) também concede aos departamentos a competência para atribuir valores máximos para cada atividade docente constante nos seus anexos, regulamentando sua aplicação neste quesito.  No Departamento de Economia e Relações Internacionais da Faculdade de Ciências Econômicas da UFRGS, isto foi feito pela [Resolução DERI 01/2018](https://www.ufrgs.br/cppd/wp-content/uploads/Resolucao_DepEconomiaRela%C3%A7%C3%B5esInternacionais.pdf).
 
-É com base nesta Resolução DERI que a planilha foi preenchida, mesmo quando há divergências entre o previsto na [Decisão CONSUN 331/2017](https://www.ufrgs.br/cppd/wp-content/uploads/Dec331-17-Normas-de-progressao-e-promocao-docente-Modificada-outubro-2023.pdf) e na  [Resolução DERI 01/2018](https://www.ufrgs.br/cppd/wp-content/uploads/Resolucao_DepEconomiaRela%C3%A7%C3%B5esInternacionais.pdf) as quais são apontadas quando devido. **Ademais, cabe ressaltar que, para facilidade de consulta e referência ao preenchimento da planilha, o [Memorial descritivo](./Associado1-2/memorial2016-2024.md) apresentado aqui inclui tanto as atividades já incluídas no RAD quanto aquelas não incluídas nele.**
+É com base nesta Resolução DERI que a planilha foi preenchida, mesmo quando há divergências entre o previsto na [Decisão CONSUN 331/2017](https://www.ufrgs.br/cppd/wp-content/uploads/Dec331-17-Normas-de-progressao-e-promocao-docente-Modificada-outubro-2023.pdf) e na  [Resolução DERI 01/2018](https://www.ufrgs.br/cppd/wp-content/uploads/Resolucao_DepEconomiaRela%C3%A7%C3%B5esInternacionais.pdf) as quais são apontadas quando devido.
+
+**Ademais, cabe ressaltar que, para facilidade de consulta e referência ao preenchimento da planilha, o [Memorial descritivo](./Associado1-2/memorial2016-2024.md) apresentado aqui inclui tanto as atividades já incluídas no RAD quanto aquelas não incluídas nele.**
 
 
 
