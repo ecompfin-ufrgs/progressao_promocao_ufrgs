@@ -5,7 +5,7 @@ Este site agrega documentos que compõem e comprovam atividades acadêmicas real
 Para tal, segundo a [Decisão CONSUN 331/2017](https://www.ufrgs.br/cppd/wp-content/uploads/Dec331-17-Normas-de-progressao-e-promocao-docente-Modificada-outubro-2023.pdf), é necessário fazer um requerimento de progressão no [SEI/UFRGS](https://sei.ufrgs.br/), apensando ao processo assim iniciado os documentos abaixo os quais já apresentamos como links para os documentos efetivos documentos comprobatórios para a progressão corrente. 
 
 1. [Relatório de Atividades Docentes (RAD) do período 2016-2024](https://github.com/ecompfin-ufrgs/progressao_promocao_ufrgs/blob/main/Associado1-2/rad-2016-2024.pdf) produzido pela UFRGS;
-2. [Relatório de Avaliação Discente](../Associado1-2/relatorio_avaliacao_discente-2016-2024.pdf)
+2. [Relatório de Avaliação Discente](./Associado1-2/relatorio_avaliacao_discente-2016-2024.pdf)
 3. [Portaria de última progressão](../Associado1-2/portaria_ultima_progressao_nelson.pdf)
 4. [Planilha de progressão DERI edição 2016-2024]../Associado1-2/Planilha_DepEconomiaRelacoesInternacionais-Associado1-2-nelson.xlsx)
 5. [Memorial descritivo](memorial2016-2024.md)  das atividades acadêmicas 2016-2024 não constantes no RAD.
