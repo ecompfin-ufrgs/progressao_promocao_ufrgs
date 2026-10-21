@@ -1,3 +1,7 @@
+# Memorial Acadêmico
+Este memorial foi produzido com o intuito de ser apresentado ao Departamento de Economia e Relações Internacionais da FCE-UFRGS para obter promoção do cargo de Professor Titular do Departamento de Economia e Relações Internacionais da Faculdade de Ciências Econômicas da Universidade Federal do Rio Grande do Sul.  Ele inclui todos os documentos necessários segundo a norma corrente no momento do requerimento de progressão ou promoção.
+
+<!--
 # Documentos para instrução do processo para progressão de Associado 1 para 2
 
 Este site agrega documentos que compõem e comprovam atividades acadêmicas realizadas no período de 2016-2024.  Ele foi produzido com o intuito de ser apresentado ao Departamento de Economia e Relações Internacionais da FCE-UFRGS para obter a progressão a Professor Associado 2.
@@ -16,5 +20,5 @@ A  [Decisão CONSUN 331/2017](https://www.ufrgs.br/cppd/wp-content/uploads/Dec33
 
 **Ademais, cabe ressaltar que, para facilidade de consulta e referência ao preenchimento da planilha, o [Memorial descritivo](./Associado1-2/memorial2016-2024.md) apresentado aqui inclui tanto as atividades já incluídas no RAD quanto aquelas não incluídas nele.**
 
-
+__>
 
